@@ -7,8 +7,8 @@ int main()
 {
     system("cls");
     
-    int a=5;
-    // assign 5 to a to amke it error free
+    int a=1;
+    // assign 5 to a to make it error free
     if(a!=5)
     {
     cout<<"File has an Error\n";
