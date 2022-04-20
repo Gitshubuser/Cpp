@@ -7,7 +7,7 @@ int main()
 {
     system("cls");
     
-    int a=5;
+    int a=1;
     // assign 5 to var = a to make it error free
     if(a!=5)
     {
